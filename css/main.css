@@ -1,0 +1,16 @@
+/* HEADER  */
+header {
+    height: 40px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    padding: 40px 10px 20px;
+}
+
+.logo{
+    width: 300px;
+    height: 50px;
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
