@@ -18,6 +18,10 @@ header {
     color: #4ea0ff;
 }
 
+.underline-yellow {
+    background-color: yellow;
+}
+
 /* TITLE  */
 .title{
     margin-top: 20px;
@@ -39,4 +43,23 @@ header {
 /* IMAGE  */
 .info-img {
     font-size: 8px;
+}
+
+/* TABLE */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #4ea0ff;
+    color: #fff;
+}
+
+.lorem-column {
+    width: 30%;
+}
+
+.even-row{
+    background-color: #97c4f8;
 }
