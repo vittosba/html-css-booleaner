@@ -33,4 +33,10 @@ header {
 .date {
     color: grey;
     font-size: 8px;
+    margin-bottom: 20px;
+}
+
+/* IMAGE  */
+.info-img {
+    font-size: 8px;
 }
