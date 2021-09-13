@@ -8,9 +8,29 @@ header {
 }
 
 .logo{
-    width: 300px;
-    height: 50px;
-    background-image: url(../img/logo.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
+    width: 200px;
+}
+
+/* UTILITIES  */
+
+
+.color-blue{
+    color: #4ea0ff;
+}
+
+/* TITLE  */
+.title{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.writer {
+    color: grey;
+    font-size: 10px;
+}
+
+.date {
+    color: grey;
+    font-size: 8px;
 }
